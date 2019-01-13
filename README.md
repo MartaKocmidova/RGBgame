@@ -1,1 +1,2 @@
 # RGBgame
+readme file
